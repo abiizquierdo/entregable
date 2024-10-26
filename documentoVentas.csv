@@ -1,0 +1,11 @@
+ID_Producto,Nombre_Producto,categoria,precios,Cantidad_Vendida,Fecha_Venta
+1, Laptop, Electrónica, 850,5,2023-09-01
+2, Smartphone, Electrónica, 550,8,2023-09-02
+3, Televisor, Electrónica, 400,3,2023-09-03
+4, Silla, Oficina, 120, 10, 2023-09-04
+5, Escritorio, Oficina, 200,7,2023-09-05
+6, Monitor, Electrónica, 300,2,2023-09-06
+7, Teclado, Accesorios, 25, 15,2023-09-07
+8, Mouse, Accesorios, 15, 20, 2023-09-08
+9, Impresora, Oficina, 150,4,2023-09-09
+10, Auriculares, Accesorios, 50, 12, 2023-09-10
